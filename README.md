@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Romanirk
+- 👋 Hi, I’m @Alfa
 - 👀 I’m interested in science
 - 🌱 I’m currently learning qt and C++
 - 💞️ I’m looking to collaborate on ...
